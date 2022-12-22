@@ -1,2 +1,2 @@
 # HShinKnight.github.io
-This Website For Web Design For Everyone
+This website for Web Design For Everyone
